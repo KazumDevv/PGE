@@ -1,1 +1,3 @@
 # PGE
+O repositorio esta organicando em 3 pastas, sendo cada uma para o sua respectiva atividade solicitada. 
+As pastas são: ANALISE contem a solução para a analise do database iris, a BANCO_DE_DADOS contendo o codigo MySQL (pge.sql) do schema e um codigo (povoamento.sql) referente a atividade extra de povoamento do banco de dados criado no modelo, por fim a pasta DER contendo um Diagrama Entidade Relacionamento do modelo criado.
